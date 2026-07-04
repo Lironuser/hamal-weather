@@ -1,0 +1,10 @@
+streamlit>=1.37
+altair>=5.0
+requests
+pandas
+folium
+streamlit-folium
+deep-translator
+openpyxl
+fpdf2
+python-bidi
